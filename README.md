@@ -14,7 +14,9 @@
 
 - ⚡ Dato extra: soy Contado Público y Licenciado en Administración.  
   
-
+- 💻 Deploy de proyectos
+  - Proyeto Final Soy Henry: https://proyecto-final-henry.vercel.app/
+  - Proyecto Individual Soy Henry: https://pi-dogs-main-dun.vercel.app/
 <br/>  
 
 
