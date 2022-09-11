@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Soy Juan Cruz, un recién graduado desarrollador full-stack incursionando en el mundo IT 🚀</div>  
+### <div align="center">Soy Juan Cruz, desarrollador full-stack 🚀</div>  
   
 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
   
 
-- 🌱 Actualmente estoy aprendiendo React-Native  
+- 🌱 Actualmente aprendiendo React-Native  
   
 
 - ⚡ Dato extra: soy Contado Público y Licenciado en Administración.  
