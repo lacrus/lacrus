@@ -9,7 +9,7 @@
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
   
 
-- 🌱 Actualmente aprendiendo React-Native  
+// - 🌱 Actualmente aprendiendo React-Native  
   
 
 - ⚡ Dato extra: soy Contado Público y Licenciado en Administración.  
